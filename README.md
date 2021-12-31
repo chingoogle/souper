@@ -1,4 +1,4 @@
-# 使用Heroku部署web服务，通过ws传输的 协议
+# 使用Heroku部署web服务，通过网络传输的 协议
 
 
 
@@ -6,7 +6,7 @@
 
 ### 服务端
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jackerjapan/web) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/chingoogle/souper) 
 
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面
   * 点击Manage App可在Settings下的Config Vars项**查看和重新设置参数**  
